@@ -16,9 +16,9 @@ These are building Blocks of android app
 - To activate this componet:startService() and bindService() with intent
 
 ### Two type : 
--- Started Services: it tells System to keep them running untill there work compltes.
+- Started Services: it tells System to keep them running untill there work compltes.
     Two type in Started Services: Foreground Services(Music player) and Background Services(Downloading the file).
--- Bound Services: it tells system to keep them running, beacause some process(componets) have dependency on these services. untill all process(componets) are unbound, it keep runing.
+- Bound Services: it tells system to keep them running, beacause some process(componets) have dependency on these services. untill all process(componets) are unbound, it keep runing.
 
 ## 3. Broadcast Receiver
 - Used to deliver system events to the apps outside of reguler flow.Ex;Aleram,or calls.
