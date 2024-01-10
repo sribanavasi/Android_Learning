@@ -4,6 +4,10 @@ Importent concept of Android explaned with code example is here.. Helps to crack
 
 ##Topic to Cover and covered
 
+Function | MySQL / MariaDB | PostgreSQL | SQLite
+:------------ | :-------------| :-------------| :-------------
+substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+
     Topics | Statues 
      :-------------| :------------
      Android Components | :heavy_check_mark: |
