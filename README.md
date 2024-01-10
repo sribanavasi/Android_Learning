@@ -1,8 +1,8 @@
 # Android_Learning
-Importent concept of Android explaned with code example is here.. Helps to crack interviews
+The important concept of Android explained with code example is here.. Helps to crack interviews
 
 
-##Topic to Cover and covered
+# Topic to Cover and covered
 
 Topics | Statues
 :------------ | :-------------
