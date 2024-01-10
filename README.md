@@ -4,9 +4,9 @@ Importent concept of Android explaned with code example is here.. Helps to crack
 
 ##Topic to Cover and covered
 
-    |   Topics                      |   Statues |
-    |-------------------------------|-----------|
-    |      Android Components       |    [x]    |
+    |   Topics                      |   Statues  |
+    |-------------------------------|------------|
+    |      Android Components       |    -[x]    |
 
 
 Activity and its lifecycle
