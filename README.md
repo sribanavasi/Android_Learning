@@ -6,7 +6,7 @@ Importent concept of Android explaned with code example is here.. Helps to crack
 
     |   Topics                      |   Statues  |
     |-------------------------------|------------|
-    |      Android Components       |    -[x]    |
+    |      Android Components       |    - [x]    |
 
 
 Activity and its lifecycle
