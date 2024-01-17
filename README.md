@@ -10,17 +10,16 @@ Android Components | :heavy_check_mark:
 
 
 Activity and its lifecycle
-services and intentservices
+services and intentservices and services lifecycle
 Briadcast receiver and jobscheduler
 Content providers
 Android Architure
-Intnent and intent filter
+Intnent and intent filter and Intent and pending inetnet and sticky intent
 Manifest.xml
+Security and permitions
 Garbage collection
-launch mode
+launch mode and stack
 fragment lifecycle
-services lifecycle
-Intent and pending inetnet and sticky intent
 Bundle
 work manager
 Data storage in android
