@@ -6,10 +6,11 @@ The important concept of Android explained with code example is here.. Helps to 
 
 Topics | Statues
 :------------ | :-------------
-Android Components | :heavy_check_mark:
+Android Components | ✔️
+Platform Architecture | ✔️
 
 
-Platform Architure
+
 Activity and its lifecycle
 services and intentservices and services lifecycle
 Briadcast receiver and jobscheduler
