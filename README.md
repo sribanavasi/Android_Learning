@@ -9,6 +9,7 @@ Topics | Statues
 Android Components | :heavy_check_mark:
 
 
+Platform Architure
 Activity and its lifecycle
 services and intentservices and services lifecycle
 Briadcast receiver and jobscheduler
@@ -16,6 +17,7 @@ Content providers
 Android Architure
 Intnent and intent filter and Intent and pending inetnet and sticky intent
 Manifest.xml
+Save UI states.
 Security and permitions
 Garbage collection
 launch mode and stack
@@ -34,6 +36,7 @@ Notifications
 multi threading
 coroutine
 RxJava
+App Testing
 
 Sun questions:
 on what thread, services run and how can make them to run on diffrent therad.
