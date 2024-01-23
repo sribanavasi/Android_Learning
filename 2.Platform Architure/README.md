@@ -1,8 +1,8 @@
 # Platform architecture
 
-Android is Open-source, linux-based software stack created for wide array of devices
+Android is an Open-source, Linux-based software stack created for a wide array of devices
 
-![Alt text](https://developer.android.com/static/guide/platform/images/android-stack_2x.png)
+![Alt text](https://github.com/sribanavasi/Android_Learning/blob/main/2.Platform%20Architure/android-stack_2x.png)
 
 ## Linux Kernel
 - The foundation of the Android platform.
@@ -25,7 +25,7 @@ Android is Open-source, linux-based software stack created for wide array of dev
 - Includes APIs for the view system, resource management, notification, location, and activity.
 
 ## System Apps
-- System apps such as SMS, calendar, and internet browser are included in this layer.
+- System apps such as SMS, calendar, and internet browsers are included in this layer.
 
 
 
