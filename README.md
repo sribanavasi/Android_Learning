@@ -8,10 +8,10 @@ Topics | Statues
 :------------ | :-------------
 Android Components | ✔️
 Platform Architecture | ✔️
+Activity and its lifecycle | ✔️
 
 
 
-Activity and its lifecycle
 services and intentservices and services lifecycle
 Briadcast receiver and jobscheduler
 Content providers
