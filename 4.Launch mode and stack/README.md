@@ -7,17 +7,17 @@
 
 ### Attributes for <activity> that you can use to manage tasks:
 
--- [taskAffinity](https://developer.android.com/guide/topics/manifest/activity-element#aff)
+- [taskAffinity](https://developer.android.com/guide/topics/manifest/activity-element#aff)
     Define which task, the launched activity will belong.[Explaned here](https://chat.openai.com/share/cc7ca8dc-cfe5-4120-986e-9d6add87dbc3)
--- launchMode
+- launchMode
     Define how the launches will be handled. 
--- [alwaysRetainTaskState](https://developer.android.com/guide/topics/manifest/activity-element#always)
+- [alwaysRetainTaskState](https://developer.android.com/guide/topics/manifest/activity-element#always)
     The default behavior of keeping the state of all activity in the stack and returning to the top activity, when the user returns to the task. If is it set to false, the task will be reset on return.
--- [allowTaskReparenting](https://developer.android.com/guide/topics/manifest/activity-element#reparent)
+- [allowTaskReparenting](https://developer.android.com/guide/topics/manifest/activity-element#reparent)
     By setting it to true, when an activity with a different affinity is launched and is placed in the current back stack, and then if its affinity's task comes in the foreground, the activity moves from the old affinity's task to the same affinity's task, and then again old task come back to the foreground, it won't have that activity in the task. That means activity moves from one task to another based on affinity. For example, In an email, the link opens, and it launches within this email's task, then if you open Chrome, it will be moved to Chrome's task, and when you come back to the email, it won't have that launched link activity.
--- [clearTaskOnLaunch](https://developer.android.com/guide/topics/manifest/activity-element#clear)
+- [clearTaskOnLaunch](https://developer.android.com/guide/topics/manifest/activity-element#clear)
     Suppose the user launches activity P from the home screen, and from there goes to activity Q. The user next taps Home, and then returns to activity P. Normally, the user sees activity Q, since that is what they were last doing in P's task. However, if P sets this flag to "true", all of the activities on top of it—in this case, Q—are removed when the user launches activity P from the home screen. So, the user sees only P when returning to the task. If this attribute and allowTaskReparenting are both "true", any activities that can be re-parented are moved to the task they share an affinity with. The remaining activities are then dropped.
--- [finishOnTaskLaunch](https://developer.android.com/guide/topics/manifest/activity-element#finish)
+- [finishOnTaskLaunch](https://developer.android.com/guide/topics/manifest/activity-element#finish)
     All activity except for root activity instance when task launched by clicking on the app icon. ie, in the task we have a->b>c activity. and it is in the background. when the user launches a task by app icon, all activity except the root activity instance will be shutdown.
 
 
