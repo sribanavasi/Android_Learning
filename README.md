@@ -9,10 +9,13 @@ Topics | Statues
 Android Components | ✔️
 Platform Architecture | ✔️
 Activity and its lifecycle | ✔️
+Launch mode and back stack | ✔️
 
 
-
+fragment & fragment lifecycle
+Fragment workaround
 services and intentservices and services lifecycle
+work manager
 Briadcast receiver and jobscheduler
 Content providers
 Android Architure
@@ -21,17 +24,13 @@ Manifest.xml
 Save UI states.
 Security and permitions
 Garbage collection
-launch mode and stack
-fragment lifecycle
 Bundle
-work manager
 Data storage in android
 MVVM / MVC
 hilt
 databinding
 statemangement
 Kotlin related /scope function, higher order function
-Fragment workaround
 Context-app and activity, when to use Content Providers
 Notifications
 multi threading
@@ -39,7 +38,7 @@ coroutine
 RxJava
 App Testing
 
-Sun questions:
+some questions:
 on what thread, services run and how can make them to run on diffrent therad.
 
 
