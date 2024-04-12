@@ -26,9 +26,9 @@
 
 ### Flags for intent
 
--- FLAG_ACTIVITY_NEW_TASK = singleTask in launch mode
--- FLAG_ACTIVITY_CLEAR_TOP = (Clears all the activities that are on top of the launched activity, if they already exist in the task)
--- FLAG_ACTIVITY_SINGLE_TOP = singleTop in launch mode
+- FLAG_ACTIVITY_NEW_TASK = singleTask in launch mode
+- FLAG_ACTIVITY_CLEAR_TOP = (Clears all the activities that are on top of the launched activity, if they already exist in the task)
+- FLAG_ACTIVITY_SINGLE_TOP = singleTop in launch mode
 
 # Launch Modes
 
