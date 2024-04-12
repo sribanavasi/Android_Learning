@@ -1,4 +1,6 @@
-# [Fragment Lifecycle](https://github.com/sribanavasi/Android_Learning/blob/main/5.Fragment/FragmentLifeCycle/fragment_lifecycle.png)
+# Fragment Lifecycle
+
+![Alt text](https://github.com/sribanavasi/Android_Learning/blob/main/5.Fragment/FragmentLifeCycle/fragment_lifecycle.png)
 
 ## onAttach
 - Called when the fragment has been associated with the activity.
