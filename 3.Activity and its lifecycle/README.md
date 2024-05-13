@@ -8,7 +8,7 @@
 
 # Activity Lifecycle
 
-![Alt text](https://github.com/sribanavasi/Android_Learning/blob/main/3.Activity%20and%20its%20lifecycle/activity_lifecycle.png)
+![Activity LifeCycle](https://github.com/sribanavasi/Android_Learning/blob/main/3.Activity%20and%20its%20lifecycle/activity_lifecycle.png)
 
 ## onCreate
 

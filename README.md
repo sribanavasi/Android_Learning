@@ -10,6 +10,7 @@ Android Components | ✔️
 Platform Architecture | ✔️
 Activity and its lifecycle | ✔️
 Launch mode and back stack | ✔️
+Fragment | ✔️
 
 
 fragment & fragment lifecycle
@@ -18,7 +19,7 @@ services and intentservices and services lifecycle
 work manager
 Briadcast receiver and jobscheduler
 Content providers
-Android Architure
+ViewModel
 Intnent and intent filter and Intent and pending inetnet and sticky intent
 Manifest.xml
 Save UI states.
@@ -36,6 +37,7 @@ Notifications
 multi threading
 coroutine
 RxJava
+Looper and Handler
 App Testing
 
 some questions:
