@@ -13,9 +13,7 @@ Launch mode and back stack | ✔️
 Fragment | ✔️
 
 
-fragment & fragment lifecycle
-Fragment workaround
-services and intentservices and services lifecycle
+services and intentServices , JobIntentServices. JobServices and services lifecycle
 work manager
 Briadcast receiver and jobscheduler
 Content providers
@@ -29,6 +27,8 @@ Bundle
 Data storage in android
 MVVM / MVC
 hilt
+Retrofit
+Sqlite and Room
 databinding
 statemangement
 Kotlin related /scope function, higher order function

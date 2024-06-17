@@ -183,7 +183,4 @@ Activity A : onRestart(),onStart(),onResume()
 Activity B : onStop(),onDestroy()
 
 
-Note: if on one or more specific configurateing change, you want to bypass restart of activity, add android:configChanges in manifest.You will receive a call to your current activity's onConfigurationChanged(Configuration)
-
-
-
+Note: if on one or more specific configuration change, you want to bypass restart of activity, add android:configChanges in manifest.You will receive a call to your current activity's onConfigurationChanged(Configuration)

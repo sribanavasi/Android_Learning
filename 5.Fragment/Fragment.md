@@ -191,3 +191,7 @@ supportFragmentManager.commit {
 - FragmentTransaction method **detach()** detaches the fragment from the UI, so it's view get destroyed. Fragment go to **stoped** state and still state managed by Fragment manager.
 - When we use **attach()** method to attach this fragment, state get resumed and ony UI hierarchy get recreated.
 - If in single transaction we detach and attached same fragment, each operation get canceled out and avoid the life cycle change or UI hierarchy destroy and re-create.
+
+Also Read:
+- [Fragment Lifecycle](./FragmentLifeCycle/Fragment_Lifecycle.md)
+- [Fragment Communication](./FragmentLifeCycle/Fragment_Communication.md)
