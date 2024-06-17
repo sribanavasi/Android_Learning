@@ -146,9 +146,9 @@ public class ExampleService extends Service {
 
 **Note: Since Services run on main thread of processor , it suggested to use IntentService subclass of Service that uses a worker thread to handle all the start requests, one at a time.**
 
-**[IntentService](6.Services/IntentService and JobIntentService/IntentService_JobIntentService.md) will not work well starting with Android 8 Oreo, due to the introduction of Background execution limits. Moreover, it's deprecated starting with Android 11.**
+**[IntentService](./IntentService and JobIntentService/IntentService_JobIntentService.md) will not work well starting with Android 8 Oreo, due to the introduction of Background execution limits. Moreover, it's deprecated starting with Android 11.**
 
-**[JobIntentService](6.Services/IntentService and JobIntentService/IntentService_JobIntentService.md) as a replacement for IntentService that is compatible with newer versions of Android.**
+**[JobIntentService](./6.Services/IntentService and JobIntentService/IntentService_JobIntentService.md) as a replacement for IntentService that is compatible with newer versions of Android.**
 
 Also Read:
 - [Started Services](./Started Services/Started_Services.md)
