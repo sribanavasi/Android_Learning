@@ -6,19 +6,19 @@ The important concept of Android explained with code example is here.. Helps to 
 
 Topics | Statues
 :------------ | :-------------
-Android Components | ✔️
-Platform Architecture | ✔️
-Activity and its lifecycle | ✔️
-Launch mode and back stack | ✔️
-Fragment | ✔️
+[Android Components](1.App%20Components/App_Components.md) | ✔️
+[Platform Architecture](./2.Platform%20Architure/Platform_Architecture.md) | ✔️
+[Activity and its lifecycle](./3.Activity%20and%20its%20lifecycle/Activity_Lifecycle.md) | ✔️
+[Launch mode and back stack](./4.Launch%20mode%20and%20stack/LaunchMode_Stack.md) | ✔️
+[Fragment](./5.Fragment/Fragment.md) | ✔️
+[Services](./6.Services/Services.md) | ✔️
 
 
-services and intentServices , JobIntentServices. JobServices and services lifecycle
 work manager
+Intnent and intent filter and Intent and pending inetnet and sticky intent
 Briadcast receiver and jobscheduler
 Content providers
 ViewModel
-Intnent and intent filter and Intent and pending inetnet and sticky intent
 Manifest.xml
 Save UI states.
 Security and permitions
