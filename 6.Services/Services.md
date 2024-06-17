@@ -79,7 +79,7 @@
 - Always use **Explicit intent** when starting a Service. so don't declare intent-filter. also System throw exception (After API 26), if you start service by Implicit intent.
 
 ### lifecycle of a service
-![Service Lifecycle](sribanavasi/Android_Learning/6.Services/img.png)
+![Service Lifecycle](./img.png)
 
 - Service Life cycle can follow t path
 ```java
