@@ -51,5 +51,3 @@ on what thread, services run and how can make them to run on diffrent therad.
 
 
 
-
-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
