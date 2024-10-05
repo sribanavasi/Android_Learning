@@ -2,7 +2,7 @@
 
 Android is an Open-source, Linux-based software stack created for a wide array of devices
 
-![Android Architecture](https://github.com/sribanavasi/Android_Learning/blob/main/2.Platform%20Architure/android-stack_2x.png)
+![Android Architecture](android-stack_2x.png)
 
 ## Linux Kernel
 - The foundation of the Android platform.

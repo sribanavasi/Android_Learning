@@ -244,7 +244,7 @@ class ListFragment: Fragment() {
 
 - Add listener in one fragment attached to its parent's fragment listener and send result from other fragment by setFragmentResult which is also attached to its parent fragment manager
 
-![Pass results between fragments](https://github.com/sribanavasi/Android_Learning/blob/main/5.Fragment/CommunicateWithFragments%20/img.png)
+![Pass results between fragments](img.png)
 
 ```java
 // in receiver
@@ -292,7 +292,7 @@ button.setOnClickListener {
 
 - Add listener in parent fragment attached to it's child fragment manager
 
-![Pass results between parent and child fragments](https://github.com/sribanavasi/Android_Learning/blob/main/5.Fragment/CommunicateWithFragments%20/img_1.png)
+![Pass results between parent and child fragments](img_1.png)
 
 ```java
 //In parent fragment

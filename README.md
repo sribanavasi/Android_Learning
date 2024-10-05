@@ -12,9 +12,9 @@ Topics | Statues
 [Launch mode and back stack](./4.Launch%20mode%20and%20stack/LaunchMode_Stack.md) | ✔️
 [Fragment](./5.Fragment/Fragment.md) | ✔️
 [Services](./6.Services/Services.md) | ✔️
+[Wokr Manager](./7.Work%20Manager/Work_Manager.md) | ✔️
 
 
-work manager
 Intnent and intent filter and Intent and pending inetnet and sticky intent
 Briadcast receiver and jobscheduler
 Content providers
@@ -42,14 +42,3 @@ App Testing
 
 some questions:
 on what thread, services run and how can make them to run on diffrent therad.
-
-
-
-
-
-
-
-
-
-
-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
